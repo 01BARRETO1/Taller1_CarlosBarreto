@@ -7,14 +7,15 @@ public class PlayerController : MonoBehaviour{
     private Rigidbody2D rd;//Referencia al componente
     private bool isGround;//Variable booleana para verificar si está en el suelo
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
+    void Start(){
+        rd=GetComponent<Rigidbody2D>();//localitation
         
     }
 
     // Update is called once per frame
-    void Update()
-    {
+    void Update(){
+        float move = Input.GetAxis("Horizontal");//localitation
+        rd.linearVelocity=new Vector2(move * moveSpeed, rd.linearVelocityY);
         
     }
 }
