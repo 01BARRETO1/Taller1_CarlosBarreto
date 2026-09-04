@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 272108526}
   m_Layer: 0
   m_Name: Plataform
-  m_TagString: Untagged
+  m_TagString: Piso
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -406,6 +406,7 @@ GameObject:
   - component: {fileID: 537726766}
   - component: {fileID: 537726769}
   - component: {fileID: 537726768}
+  - component: {fileID: 537726770}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -560,6 +561,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &537726770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537726765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63882d6e0ab0b864a8b81d1601c04fab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  moveSpeed: 5
+  jumpForce: 10
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
