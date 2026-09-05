@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: b963b41ed6311c043969aee843f91009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5410175724438208663
+    second: Rata_idle_0
+  - first:
+      213: 5785309398561271877
+    second: Rata_idle_1
+  - first:
+      213: 8729039340270701606
+    second: Rata_idle_2
+  - first:
+      213: -4248288067932668746
+    second: Rata_idle_3
+  - first:
+      213: -7142862460746360386
+    second: Rata_idle_4
+  - first:
+      213: 6419916447281166547
+    second: Rata_idle_5
+  - first:
+      213: 6089530384689566120
+    second: Rata_idle_6
+  - first:
+      213: -6287642016555486284
+    second: Rata_idle_7
+  - first:
+      213: 6217756579248939679
+    second: Rata_idle_8
+  - first:
+      213: -3138510431758989251
+    second: Rata_idle_9
+  - first:
+      213: -571282693144832926
+    second: Rata_idle_10
+  - first:
+      213: -4452122514242081931
+    second: Rata_idle_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rata_idle_1
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 147
+        width: 293
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54039f00f3c894050800000000000000
+      internalID: 5785309398561271877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_idle_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 272
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cce331807c32970800000000000000
+      internalID: 8729039340270701606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_idle_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 148
+        width: 279
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcb757b28c0b05c0800000000000000
+      internalID: -4248288067932668746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_idle_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 144
+        width: 282
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99dbbbf647fdc90800000000000000
+      internalID: -7142862460746360386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 147
+        width: 258
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8b1ef9eff181950800000000000000
+      internalID: 6419916447281166547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 145
+        width: 258
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3b36836eecdb8a0800000000000000
+      internalID: -6287642016555486284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 144
+        width: 277
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f922bfd6aa8e94650800000000000000
+      internalID: 6217756579248939679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9bae90b853f1fc449bada3d10eb3b812
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rata_idle_0: -5410175724438208663
+      Rata_idle_1: 5785309398561271877
+      Rata_idle_10: -571282693144832926
+      Rata_idle_11: -4452122514242081931
+      Rata_idle_2: 8729039340270701606
+      Rata_idle_3: -4248288067932668746
+      Rata_idle_4: -7142862460746360386
+      Rata_idle_5: 6419916447281166547
+      Rata_idle_6: 6089530384689566120
+      Rata_idle_7: -6287642016555486284
+      Rata_idle_8: 6217756579248939679
+      Rata_idle_9: -3138510431758989251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

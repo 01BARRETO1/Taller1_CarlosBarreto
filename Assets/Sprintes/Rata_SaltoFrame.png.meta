@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: c7dbdcd479616764fac145fae4905014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1017008892799254777
+    second: Rata_SaltoFrame_0
+  - first:
+      213: 7926953534146059411
+    second: Rata_SaltoFrame_1
+  - first:
+      213: 3345856256570371149
+    second: Rata_SaltoFrame_2
+  - first:
+      213: -4354765362470842485
+    second: Rata_SaltoFrame_3
+  - first:
+      213: 3095615811831617427
+    second: Rata_SaltoFrame_4
+  - first:
+      213: 2933633228020721380
+    second: Rata_SaltoFrame_5
+  - first:
+      213: 5780949408303991009
+    second: Rata_SaltoFrame_6
+  - first:
+      213: 5166738626611328523
+    second: Rata_SaltoFrame_7
+  - first:
+      213: -7709819618982303912
+    second: Rata_SaltoFrame_8
+  - first:
+      213: 205868737319772172
+    second: Rata_SaltoFrame_9
+  - first:
+      213: -7808233535975012863
+    second: Rata_SaltoFrame_10
+  - first:
+      213: 2566584390946411689
+    second: Rata_SaltoFrame_11
+  - first:
+      213: 5305408659942756906
+    second: Rata_SaltoFrame_12
+  - first:
+      213: 3721156148520620428
+    second: Rata_SaltoFrame_13
+  - first:
+      213: 7483397759364957163
+    second: Rata_SaltoFrame_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rata_SaltoFrame_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 590
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f00c1b9f3c093c0800000000000000
+      internalID: -4354765362470842485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_SaltoFrame_4
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 461
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3975e49fd26d5fa20800000000000000
+      internalID: 3095615811831617427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_SaltoFrame_5
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 471
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62579b0eb56b820800000000000000
+      internalID: 2933633228020721380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_SaltoFrame_6
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 0
+        width: 567
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c67aabde0a3050800000000000000
+      internalID: 5780949408303991009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_SaltoFrame_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 471
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0635760861f3b740800000000000000
+      internalID: 5166738626611328523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rata_SaltoFrame_8
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 0
+        width: 639
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e838a7e7310590800000000000000
+      internalID: -7709819618982303912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e7bf6069517e91469cf48c3060d55e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rata_SaltoFrame_0: -1017008892799254777
+      Rata_SaltoFrame_1: 7926953534146059411
+      Rata_SaltoFrame_10: -7808233535975012863
+      Rata_SaltoFrame_11: 2566584390946411689
+      Rata_SaltoFrame_12: 5305408659942756906
+      Rata_SaltoFrame_13: 3721156148520620428
+      Rata_SaltoFrame_14: 7483397759364957163
+      Rata_SaltoFrame_2: 3345856256570371149
+      Rata_SaltoFrame_3: -4354765362470842485
+      Rata_SaltoFrame_4: 3095615811831617427
+      Rata_SaltoFrame_5: 2933633228020721380
+      Rata_SaltoFrame_6: 5780949408303991009
+      Rata_SaltoFrame_7: 5166738626611328523
+      Rata_SaltoFrame_8: -7709819618982303912
+      Rata_SaltoFrame_9: 205868737319772172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
