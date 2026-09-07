@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 150
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -142,15 +142,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rata_SaltoFrame_3
+      name: Rata_SaltoFrame_4
       rect:
         serializedVersion: 2
-        x: 475
+        x: 2246
         y: 0
-        width: 590
+        width: 333
         height: 823
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.13237774, y: 0.31692702}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,15 +164,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rata_SaltoFrame_4
+      name: Rata_SaltoFrame_0
       rect:
         serializedVersion: 2
-        x: 1065
+        x: 11
         y: 0
-        width: 461
+        width: 470
         height: 823
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45992833, y: 0.4931352}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,12 +189,12 @@ TextureImporter:
       name: Rata_SaltoFrame_5
       rect:
         serializedVersion: 2
-        x: 1530
+        x: 2709
         y: 0
-        width: 471
+        width: 419
         height: 823
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.495507, y: 0.48627016}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,67 +208,67 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rata_SaltoFrame_6
+      name: Rata_SaltoFrame_1
       rect:
         serializedVersion: 2
-        x: 2003
-        y: 0
-        width: 567
-        height: 823
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 619
+        y: 5
+        width: 436
+        height: 818
+      alignment: 9
+      pivot: {x: 0.38336965, y: 0.21910664}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1e8c67aabde0a3050800000000000000
-      internalID: 5780949408303991009
+      spriteID: 92e40ca8c15360f4ea7324c14294f2d8
+      internalID: -1017008892799254777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rata_SaltoFrame_7
+      name: Rata_SaltoFrame_2
       rect:
         serializedVersion: 2
-        x: 6
+        x: 1145
         y: 0
-        width: 471
+        width: 376
         height: 823
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.25456107, y: 0.38329077}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b0635760861f3b740800000000000000
-      internalID: 5166738626611328523
+      spriteID: f76a6b81117724940bb48f3d76c3d711
+      internalID: 7926953534146059411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rata_SaltoFrame_8
+      name: Rata_SaltoFrame_3
       rect:
         serializedVersion: 2
-        x: 2568
+        x: 1707
         y: 0
-        width: 639
+        width: 275
         height: 823
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.21921031, y: 0.35583007}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 857e838a7e7310590800000000000000
-      internalID: -7709819618982303912
+      spriteID: 2209b74068cf427438642f430c3eab7e
+      internalID: 3345856256570371149
       vertices: []
       indices: 
       edges: []
@@ -285,23 +285,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Rata_SaltoFrame_0: -1017008892799254777
-      Rata_SaltoFrame_1: 7926953534146059411
-      Rata_SaltoFrame_10: -7808233535975012863
-      Rata_SaltoFrame_11: 2566584390946411689
-      Rata_SaltoFrame_12: 5305408659942756906
-      Rata_SaltoFrame_13: 3721156148520620428
-      Rata_SaltoFrame_14: 7483397759364957163
-      Rata_SaltoFrame_2: 3345856256570371149
-      Rata_SaltoFrame_3: -4354765362470842485
-      Rata_SaltoFrame_4: 3095615811831617427
+      Rata_SaltoFrame_0: 3095615811831617427
+      Rata_SaltoFrame_1: -1017008892799254777
+      Rata_SaltoFrame_2: 7926953534146059411
+      Rata_SaltoFrame_3: 3345856256570371149
+      Rata_SaltoFrame_4: -4354765362470842485
       Rata_SaltoFrame_5: 2933633228020721380
-      Rata_SaltoFrame_6: 5780949408303991009
-      Rata_SaltoFrame_7: 5166738626611328523
-      Rata_SaltoFrame_8: -7709819618982303912
-      Rata_SaltoFrame_9: 205868737319772172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

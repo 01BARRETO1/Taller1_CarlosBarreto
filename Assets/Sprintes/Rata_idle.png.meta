@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 120
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -136,12 +136,12 @@ TextureImporter:
       name: Rata_idle_1
       rect:
         serializedVersion: 2
-        x: 878
-        y: 147
-        width: 293
-        height: 446
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 305
+        y: 143
+        width: 287
+        height: 419
+      alignment: 9
+      pivot: {x: 0.4376309, y: 0.59683335}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -158,12 +158,12 @@ TextureImporter:
       name: Rata_idle_2
       rect:
         serializedVersion: 2
-        x: 15
-        y: 144
-        width: 272
-        height: 427
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 585
+        y: 145
+        width: 283
+        height: 420
+      alignment: 9
+      pivot: {x: 0.52108365, y: 0.5937615}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -180,12 +180,12 @@ TextureImporter:
       name: Rata_idle_3
       rect:
         serializedVersion: 2
-        x: 309
-        y: 148
-        width: 279
-        height: 422
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 875
+        y: 145
+        width: 277
+        height: 448
+      alignment: 9
+      pivot: {x: 0.4310715, y: 0.60388345}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -202,12 +202,12 @@ TextureImporter:
       name: Rata_idle_4
       rect:
         serializedVersion: 2
-        x: 588
-        y: 144
-        width: 282
-        height: 424
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1165
+        y: 145
+        width: 260
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4632822, y: 0.5856596}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -224,12 +224,12 @@ TextureImporter:
       name: Rata_idle_5
       rect:
         serializedVersion: 2
-        x: 1170
-        y: 147
-        width: 258
-        height: 406
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1441
+        y: 146
+        width: 282
+        height: 368
+      alignment: 9
+      pivot: {x: 0.47460982, y: 0.58431137}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -243,45 +243,45 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rata_idle_7
+      name: Rata_idle_0
       rect:
         serializedVersion: 2
-        x: 1736
-        y: 145
-        width: 258
-        height: 419
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 18
+        y: 146
+        width: 268
+        height: 415
+      alignment: 9
+      pivot: {x: 0.48664188, y: 0.6035177}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4b3b36836eecdb8a0800000000000000
-      internalID: -6287642016555486284
+      spriteID: 43fe171faee12224fa08c31496369f0b
+      internalID: -5410175724438208663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rata_idle_8
+      name: Rata_idle_6
       rect:
         serializedVersion: 2
-        x: 1441
-        y: 144
-        width: 277
-        height: 376
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1733
+        y: 145
+        width: 257
+        height: 417
+      alignment: 9
+      pivot: {x: 0.48142725, y: 0.6030212}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f922bfd6aa8e94650800000000000000
-      internalID: 6217756579248939679
+      spriteID: ea1165caf011e104489a6da1082738ac
+      internalID: 6089530384689566120
       vertices: []
       indices: 
       edges: []
@@ -298,20 +298,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rata_idle_0: -5410175724438208663
       Rata_idle_1: 5785309398561271877
-      Rata_idle_10: -571282693144832926
-      Rata_idle_11: -4452122514242081931
       Rata_idle_2: 8729039340270701606
       Rata_idle_3: -4248288067932668746
       Rata_idle_4: -7142862460746360386
       Rata_idle_5: 6419916447281166547
       Rata_idle_6: 6089530384689566120
-      Rata_idle_7: -6287642016555486284
-      Rata_idle_8: 6217756579248939679
-      Rata_idle_9: -3138510431758989251
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
