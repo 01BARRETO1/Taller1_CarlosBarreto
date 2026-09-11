@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: ae8ff12402c347447be3bc40024e0258
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4643752272289655825
+    second: Rat_Enemy_0
+  - first:
+      213: -4612844437369631271
+    second: Rat_Enemy_1
+  - first:
+      213: -1437763174300554124
+    second: Rat_Enemy_2
+  - first:
+      213: -3614541663465883145
+    second: Rat_Enemy_3
+  - first:
+      213: -600740207130551414
+    second: Rat_Enemy_4
+  - first:
+      213: -8474903396306963876
+    second: Rat_Enemy_5
+  - first:
+      213: 3785005581734969744
+    second: Rat_Enemy_6
+  - first:
+      213: -9016184192305222641
+    second: Rat_Enemy_7
+  - first:
+      213: -6642330939668313723
+    second: Rat_Enemy_8
+  - first:
+      213: 414615582052717386
+    second: Rat_Enemy_9
+  - first:
+      213: 4177465690331014164
+    second: Rat_Enemy_10
+  - first:
+      213: 3599066248015731962
+    second: Rat_Enemy_11
+  - first:
+      213: 4799593493417654497
+    second: Rat_Enemy_12
+  - first:
+      213: 6043725476925125830
+    second: Rat_Enemy_13
+  - first:
+      213: 1551172249306174464
+    second: Rat_Enemy_14
+  - first:
+      213: 3953575156643596184
+    second: Rat_Enemy_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat_Enemy_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 739
+        width: 206
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3134979e31e8fb0800000000000000
+      internalID: -4643752272289655825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 737
+        width: 222
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd42729c62ebffb0800000000000000
+      internalID: -4612844437369631271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 737
+        width: 220
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6da4b20a0c0ce0800000000000000
+      internalID: -1437763174300554124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_3
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 737
+        width: 228
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9344bf18196ddc0800000000000000
+      internalID: -3614541663465883145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 521
+        width: 234
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b50b7e6fdb9a7f0800000000000000
+      internalID: -600740207130551414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 521
+        width: 255
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c523f555348136a80800000000000000
+      internalID: -8474903396306963876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 519
+        width: 236
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0910f24d58a078430800000000000000
+      internalID: 3785005581734969744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_7
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 519
+        width: 232
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca7243f3410e280800000000000000
+      internalID: -9016184192305222641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 285
+        width: 229
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cb74f333b1d3a0800000000000000
+      internalID: -6642330939668313723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 286
+        width: 242
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a431896dca201c500800000000000000
+      internalID: 414615582052717386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 279
+        width: 200
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ef8589e659f930800000000000000
+      internalID: 4177465690331014164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 279
+        width: 204
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc53141fa372f130800000000000000
+      internalID: 3599066248015731962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 33
+        width: 218
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87f695ad49b9240800000000000000
+      internalID: 4799593493417654497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 234
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4b91cdc40afd350800000000000000
+      internalID: 6043725476925125830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 37
+        width: 229
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004965931fed68510800000000000000
+      internalID: 1551172249306174464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Enemy_15
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 37
+        width: 234
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8970d8478abedd630800000000000000
+      internalID: 3953575156643596184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 20ed51d2a88d73545a4e2cb2b97f722f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Rat_Enemy_0: -4643752272289655825
+      Rat_Enemy_1: -4612844437369631271
+      Rat_Enemy_10: 4177465690331014164
+      Rat_Enemy_11: 3599066248015731962
+      Rat_Enemy_12: 4799593493417654497
+      Rat_Enemy_13: 6043725476925125830
+      Rat_Enemy_14: 1551172249306174464
+      Rat_Enemy_15: 3953575156643596184
+      Rat_Enemy_2: -1437763174300554124
+      Rat_Enemy_3: -3614541663465883145
+      Rat_Enemy_4: -600740207130551414
+      Rat_Enemy_5: -8474903396306963876
+      Rat_Enemy_6: 3785005581734969744
+      Rat_Enemy_7: -9016184192305222641
+      Rat_Enemy_8: -6642330939668313723
+      Rat_Enemy_9: 414615582052717386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
